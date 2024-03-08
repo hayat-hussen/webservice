@@ -6,7 +6,7 @@ This Webservice Project provides a comprehensive solution for managing user auth
 
 1. **Database Setup:** Create a database named "webservice" and import the provided SQL file containing tables and sample data.
 2. **Authentication:** Register as a new user or log in using the provided credentials:
-   - Username: yohanes
+   - Username: hayat 
    - Password: 12345678
 3. **Database Tables:** Ensure the database contains tables for "users", "cars", "flights", and "wheretovisit".
 
